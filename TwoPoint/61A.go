@@ -1,4 +1,4 @@
-package main
+package TwoPoint
 
 func rotateRight(head *ListNode, k int) *ListNode {
 	if k <= 0{

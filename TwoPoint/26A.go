@@ -1,4 +1,4 @@
-package main
+package TwoPoint
 
 func removeDuplicates(nums []int) int {
 	start:=0

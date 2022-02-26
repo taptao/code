@@ -1,4 +1,4 @@
-package main
+package TwoPoint
 
 type ListNode struct {
 	Val int

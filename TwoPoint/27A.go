@@ -1,4 +1,4 @@
-package main
+package TwoPoint
 
 func removeElement(nums []int, val int) int {
 	start := 0
