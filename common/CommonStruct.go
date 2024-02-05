@@ -1,11 +1,11 @@
-package TwoPoint
+package common
 
 type ListNode struct {
-	Val int
+	Val  int
 	Next *ListNode
 }
- type TreeNode struct {
-      Val int
-      Left *TreeNode
-      Right *TreeNode
- }
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
